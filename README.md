@@ -80,3 +80,4 @@ This platform helps:
 - Personalized course recommendations
 
 ---
+<img width="1893" height="963" alt="image" src="https://github.com/user-attachments/assets/ff6f2419-ae1f-45f7-9ae8-361fb0e8ce4d" />
