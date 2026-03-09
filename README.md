@@ -89,4 +89,5 @@ User → Frontend (React + Vite) → Base44 Backend → Data Entities
 - Personalized course recommendations
 
 ---
-![alt text](image.png)
+
+<img width="1881" height="954" alt="image" src="https://github.com/user-attachments/assets/b0192469-ae6d-4f5d-aa02-c7045ade3603" />
