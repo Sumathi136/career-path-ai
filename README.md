@@ -71,7 +71,16 @@ This platform helps:
 - Learners follow structured career roadmaps
 
 ---
+## System Architecture
 
+User → Frontend (React + Vite) → Base44 Backend → Data Entities
+
+1. User inputs skills and career interests
+2. System analyzes skill gaps
+3. Career paths and learning roadmap are generated
+4. Users track progress and prepare for interviews
+
+---
 ## 📈 Future Improvements
 
 - AI-based skill analysis
@@ -80,4 +89,4 @@ This platform helps:
 - Personalized course recommendations
 
 ---
-<img width="1893" height="963" alt="image" src="https://github.com/user-attachments/assets/ff6f2419-ae1f-45f7-9ae8-361fb0e8ce4d" />
+![alt text](image.png)
